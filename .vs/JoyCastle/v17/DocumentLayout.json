@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeMemory\\JoyCastle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97A609C5-32B9-4CCC-9922-F3A3449556F2}|03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.vcxproj|D:\\CodeMemory\\JoyCastle\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A609C5-32B9-4CCC-9922-F3A3449556F2}|03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.vcxproj|solutionrelative:03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB48FAD-F1E9-44DA-A6DF-E821FD918314}|02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.vcxproj|D:\\CodeMemory\\JoyCastle\\02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DB48FAD-F1E9-44DA-A6DF-E821FD918314}|02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.vcxproj|solutionrelative:02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B9CC9-4A8F-428C-8BBC-59133E97EB6B}|04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.vcxproj|D:\\CodeMemory\\JoyCastle\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{395B9CC9-4A8F-428C-8BBC-59133E97EB6B}|04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.vcxproj|solutionrelative:04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B9CC9-4A8F-428C-8BBC-59133E97EB6B}|04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.vcxproj|D:\\CodeMemory\\JoyCastle\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{395B9CC9-4A8F-428C-8BBC-59133E97EB6B}|04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.vcxproj|solutionrelative:04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395B9CC9-4A8F-428C-8BBC-59133E97EB6B}|04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.vcxproj|D:\\CodeMemory\\JoyCastle\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{395B9CC9-4A8F-428C-8BBC-59133E97EB6B}|04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.vcxproj|solutionrelative:04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A609C5-32B9-4CCC-9922-F3A3449556F2}|03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.vcxproj|D:\\CodeMemory\\JoyCastle\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A609C5-32B9-4CCC-9922-F3A3449556F2}|03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.vcxproj|solutionrelative:03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FFCBC9-60D1-4DA1-9067-54591C49D896}|01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.vcxproj|D:\\CodeMemory\\JoyCastle\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26FFCBC9-60D1-4DA1-9067-54591C49D896}|01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.vcxproj|solutionrelative:01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A609C5-32B9-4CCC-9922-F3A3449556F2}|03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.vcxproj|D:\\CodeMemory\\JoyCastle\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97A609C5-32B9-4CCC-9922-F3A3449556F2}|03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.vcxproj|solutionrelative:03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB48FAD-F1E9-44DA-A6DF-E821FD918314}|02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.vcxproj|D:\\CodeMemory\\JoyCastle\\02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DB48FAD-F1E9-44DA-A6DF-E821FD918314}|02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.vcxproj|solutionrelative:02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FFCBC9-60D1-4DA1-9067-54591C49D896}|01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.vcxproj|D:\\CodeMemory\\JoyCastle\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26FFCBC9-60D1-4DA1-9067-54591C49D896}|01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.vcxproj|solutionrelative:01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FFCBC9-60D1-4DA1-9067-54591C49D896}|01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.vcxproj|D:\\CodeMemory\\JoyCastle\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26FFCBC9-60D1-4DA1-9067-54591C49D896}|01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.vcxproj|solutionrelative:01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB48FAD-F1E9-44DA-A6DF-E821FD918314}|02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.vcxproj|D:\\CodeMemory\\JoyCastle\\02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DB48FAD-F1E9-44DA-A6DF-E821FD918314}|02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.vcxproj|solutionrelative:02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Solution.cpp",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.cpp",
+              "RelativeDocumentMoniker": "04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.cpp",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.cpp",
+              "RelativeToolTip": "04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T11:53:49.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Solution.h",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.h",
+              "RelativeDocumentMoniker": "04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.h",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.h",
+              "RelativeToolTip": "04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\Solution.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T11:52:15.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.cpp",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.cpp",
+              "RelativeDocumentMoniker": "04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.cpp",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.cpp",
+              "RelativeToolTip": "04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF\\04-\u9B54\u6CD5\u5929\u8D4B\u8BC4\u4F30\u7CFB\u7EDF.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T11:51:41.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Solution.cpp",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.cpp",
+              "RelativeDocumentMoniker": "03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.cpp",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.cpp",
+              "RelativeToolTip": "03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T11:36:39.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Solution.h",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.h",
+              "RelativeDocumentMoniker": "03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.h",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.h",
+              "RelativeToolTip": "03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\Solution.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T11:35:48.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.cpp",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.cpp",
+              "RelativeDocumentMoniker": "03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.cpp",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.cpp",
+              "RelativeToolTip": "03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669\\03-\u9B54\u6CD5\u5B9D\u7BB1\u63A2\u9669.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T11:35:37.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Solution.cpp",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.cpp",
+              "RelativeDocumentMoniker": "02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.cpp",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.cpp",
+              "RelativeToolTip": "02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBEwDcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T09:37:38.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Solution.h",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.h",
+              "RelativeDocumentMoniker": "02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.h",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.h",
+              "RelativeToolTip": "02-\u9B54\u6CD5\u80FD\u91CF\u573A\\Solution.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T09:36:52.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "02-\u9B54\u6CD5\u80FD\u91CF\u573A.cpp",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.cpp",
+              "RelativeDocumentMoniker": "02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.cpp",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.cpp",
+              "RelativeToolTip": "02-\u9B54\u6CD5\u80FD\u91CF\u573A\\02-\u9B54\u6CD5\u80FD\u91CF\u573A.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T09:36:11.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Solution.cpp",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.cpp",
+              "RelativeDocumentMoniker": "01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.cpp",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.cpp",
+              "RelativeToolTip": "01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T09:23:13.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Solution.h",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.h",
+              "RelativeDocumentMoniker": "01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.h",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.h",
+              "RelativeToolTip": "01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\Solution.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T09:22:22.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.cpp",
+              "DocumentMoniker": "D:\\CodeMemory\\JoyCastle\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.cpp",
+              "RelativeDocumentMoniker": "01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.cpp",
+              "ToolTip": "D:\\CodeMemory\\JoyCastle\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.cpp",
+              "RelativeToolTip": "01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C\\01-\u4F11\u95F2\u6E38\u620F\u6392\u884C\u699C.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T09:21:36.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
